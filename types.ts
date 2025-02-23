@@ -11,7 +11,10 @@ enum sas{
     lizi= "no"
 }
 
-function buenas(){
+function buenas(
+    name?: string,
+    emoji?: string,
+){
    
 
 }
