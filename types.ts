@@ -15,6 +15,6 @@ function buenas(
     name?: string,
     emoji?: string,
 ){
-   
+   console.log("hhhola buenas")
 
 }
