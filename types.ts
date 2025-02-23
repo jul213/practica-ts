@@ -10,3 +10,8 @@ enum sas{
     nombre = "buenas",
     lizi= "no"
 }
+
+function buenas(){
+   
+
+}
