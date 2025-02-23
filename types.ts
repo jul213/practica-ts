@@ -12,7 +12,7 @@ enum sas{
 }
 
 function buenas(
-    name?: string,
+    name: string,
     emoji?: string,
 ){
    console.log("hhhola buenas")
