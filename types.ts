@@ -32,3 +32,10 @@ const clase: {
     curso: 2,
     nombre: "juan"
 }
+
+
+
+const estudio: Object = {
+    curso: 2,
+    nombre: "asix",
+}
