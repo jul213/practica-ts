@@ -11,6 +11,8 @@ enum sas{
     lizi= "no"
 }
 
+let s: sas = sas.lizi;
+
 function buenas(
     name: string,
     emoji?: string,
