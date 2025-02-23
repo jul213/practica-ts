@@ -18,3 +18,5 @@ function buenas(
    console.log("hhhola buenas")
 
 }
+
+let ss: any =1;
