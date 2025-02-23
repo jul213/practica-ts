@@ -4,3 +4,9 @@ type hola = {
     tipo: string,
     numero: number,
 }
+
+
+enum sas{
+    nombre = "buenas",
+    lizi= "no"
+}
