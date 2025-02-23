@@ -29,5 +29,6 @@ const clase: {
     curso: number,
     nombre: string,
 } = {
-    curso: 2
+    curso: 2,
+    nombre: "juan"
 }
