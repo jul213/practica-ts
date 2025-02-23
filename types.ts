@@ -23,3 +23,11 @@ let ss: any =1;
 
 
 let number: number[] = [1,33,4,5,45,5,4];
+
+
+const clase: {
+    curso: number,
+    nombre: string,
+} = {
+    curso: 2
+}
